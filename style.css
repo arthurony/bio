@@ -45,6 +45,7 @@ body {
     font-size: 1.1rem;
     font-weight: bold;
     border: solid 2px var(--accentcolor);
+    border-radius: 80%;
     transition: all 0.5s linear;
 }
 
